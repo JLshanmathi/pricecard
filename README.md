@@ -1,3 +1,3 @@
 # React + Vite
 
-#Price card using React Library
+Price card using React Library
